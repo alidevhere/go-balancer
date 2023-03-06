@@ -1,3 +1,3 @@
-module github.com/alidevhere/go-balancer
+module github.com/alidevhere/go_balancer
 
 go 1.19

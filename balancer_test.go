@@ -1,4 +1,4 @@
-package goBalancer
+package go_balancer
 
 import (
 	"testing"
